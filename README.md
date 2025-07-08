@@ -10,7 +10,7 @@ This tool is built for the community — no paywalls, ads, or locked features. J
 
 ### Landing Page
 
-<img src="login-page.pn" alt="Machine Tracker Landing Page" width="100%" />
+<img src="login-page.png" alt="Machine Tracker Landing Page" width="100%" />
 
 ### Dashboard View
 
