@@ -4,7 +4,6 @@
 
 This tool is built for the community — no paywalls, ads, or locked features. Just a modern public portfolio system made for hackers by hackers.
 
----
 
 ## 🖼️ Screenshots
 
@@ -22,7 +21,7 @@ This tool is built for the community — no paywalls, ads, or locked features. J
 
 👉 [https://machinetracker.lovable.app](https://machinetracker.lovable.app)
 
----
+
 
 ## ✨ Key Features
 
@@ -58,14 +57,13 @@ Manage all your lab machines from your private dashboard:
 - Your total score is displayed on your dashboard and public profile
 - Perfect for building your resume or LinkedIn presence
 
----
+
 
 ## 💬 Community
 
 **Machine Tracker** is open to all cybersecurity learners and professionals.  
 Use it to build your journey and inspire others with your progress.
 
----
 
 ## 🙌 Credits
 
