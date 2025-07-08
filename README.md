@@ -15,7 +15,7 @@ This tool is built for the community — no paywalls, ads, or locked features. J
 
 <img src="Example.png" alt="Machine Tracker Dashboard" width="100%" />
 
----
+
 
 ## 🔗 Try the App
 
