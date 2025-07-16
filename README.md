@@ -13,7 +13,7 @@ This tool is built for the community — no paywalls, ads, or locked features. J
 
 ### Dashboard View
 
-<img src="Example.png" alt="Machine Tracker Dashboard" width="100%" />
+<img src="Dashboard.png" alt="Machine Tracker Dashboard" width="100%" />
 
 
 
