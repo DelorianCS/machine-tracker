@@ -38,7 +38,7 @@ Manage all your lab machines from your private dashboard:
 
 - Add, edit, delete machines
 - Each machine includes:
-  - Name
+ - Name
   - Platform (HackTheBox, TryHackMe, VulnHub, DockerLabs, PicoCTF)
   - Difficulty (Easy, Medium, Hard, Insane)
   - Operating System (Linux, Windows, Other)
