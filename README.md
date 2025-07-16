@@ -32,7 +32,7 @@ This tool is built for the community — no paywalls, ads, or locked features. J
 - Each user creates a **username** and **display name**
 - Every user has a **public profile URL** to showcase their work
 
-###  Machine Management
+### ⚙️ Machine Management
 
 Manage all your lab machines from your private dashboard:
 
