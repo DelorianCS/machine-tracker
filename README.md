@@ -1,11 +1,11 @@
 # Machine Tracker
 
-**Machine Tracker** is a FREE professional and minimalist web application that helps cybersecurity learners document and share their pentesting progress in a clean and structured way.
+**Machine Tracker** is a FREE minimalist web application that helps cibersecurity learners document and share their pentesting progress in a clean and structured way.
 
-This tool is built for the community — no paywalls, ads, or locked features. Just a modern public portfolio system made for hackers by hackers.
+This tool is built for the community — no paywalls, ads, or locked features. Just a modern public portfolio system made for hackers by hackers
 
 
-## 🖼 Screenshots
+## Screenshots
 
 ### Landing Page
 
